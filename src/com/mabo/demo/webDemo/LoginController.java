@@ -31,5 +31,4 @@ public class LoginController {
         return  JSONObject.toJSON(json);
     }
 
-
 }
